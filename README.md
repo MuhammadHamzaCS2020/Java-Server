@@ -2,7 +2,9 @@
 
 # Server Implementation in Java
 
-# Features:
+# Features
 i)    Client Signup
+
 ii)   Client Signin
+
 iii)  Client Can Check his Resources
