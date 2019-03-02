@@ -1,2 +1,8 @@
 # Java_Server_Signin_Signup
-Client and Server in Java. User can Singin or Singup 
+
+# Server Implementation in Java
+
+# Features:
+i)    Client Signup
+ii)   Client Signin
+iii)  Client Can Check his Resources
